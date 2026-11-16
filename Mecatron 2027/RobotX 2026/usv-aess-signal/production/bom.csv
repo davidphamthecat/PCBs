@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"H101, H102, H103, H104",MountingHole_3.2mm_M3_DIN965_Pad_TopBottom,4,MountingHole_M3,
+"J101, J102, J103, J104, J105",JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,5,CAN,
+J106,PinHeader_2x04_P2.54mm_Vertical,1,PWM +/-,
+J107,PinHeader_1x04_P2.54mm_Vertical,1,PWM,
+J108,JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical,1,PWM_Out,
+J109,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02,
+R101,R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical,1,120,
